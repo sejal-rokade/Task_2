@@ -1,0 +1,9 @@
+Date,Product,Region,Sales Rep,Units Sold,Unit Price,Total Sales
+01-01-2025,Product A,North,John Doe,50,20,1000
+02-01-2025,Product B,South,Jane Smith,30,15,450
+03-01-2025,Product C,East,Alice Jones,20,25,500
+04-01-2025,Product A,West,Bob Brown,40,20,800
+05-01-2025,Product B,North,John Doe,25,15,375
+06-01-2025,Product C,South,Jane Smith,35,25,875
+07-01-2025,Product A,East,Alice Jones,60,20,1200
+08-01-2025,Product B,West,Bob Brown,45,15,675
